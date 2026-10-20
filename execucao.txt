@@ -1,0 +1,6 @@
+py -3.12 main.py
+
+
+$env:PYTHONUTF8 = "1"
+cd "C:\Users\credito\Desktop\Lidio\Inadimplencia"
+python main.py

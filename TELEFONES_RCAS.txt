@@ -1,0 +1,8 @@
+# 👇 COLOQUE AQUI OS NÚMEROS DO WHATSAPP DOS VENDEDORES
+# Formato: "Nome Exato do Vendedor": "55DDDNUMERO" 
+(Ex: "RUBENS FILHO": "5585999999999")
+TELEFONES_WPP = {
+    "RUBENS FILHO": "5585999999999", # Exemplo - Altere para o número real
+    "ELIDIO CAVALCANTE LEITE FILHO": "",
+    "FRANCISCO CARLOS NOGUEIRA DE MELO": "",
+    # Adicione os outros vendedores aqui...
